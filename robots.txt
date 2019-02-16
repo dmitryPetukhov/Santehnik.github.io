@@ -1,0 +1,7 @@
+
+
+User-agent: Yandex
+Disallow: /
+Host: www.xn-----6kcbloccjqwrrbepazkhdsg7e.xn--p1ai
+
+
